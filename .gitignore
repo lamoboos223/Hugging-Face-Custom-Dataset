@@ -1,0 +1,8 @@
+*.lock
+.env
+.DS_Store
+.venv
+.pytest_cache
+.vscode
+*.jsonl
+
