@@ -1,1 +1,1 @@
-> please refere to `/welcome` page for info about the project.
+> please refere to [welcome](/welcome) page for info about the project.
