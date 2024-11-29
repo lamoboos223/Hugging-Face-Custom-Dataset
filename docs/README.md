@@ -1,0 +1,1 @@
+> please refere to `/welcome` page for info about the project.
